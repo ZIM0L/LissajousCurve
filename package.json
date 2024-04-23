@@ -1,7 +1,6 @@
 {
   "name": "project_lissajous_vite",
   "homepage": "https://ZIM0L.github.io/LissajousCurve/",
-  "base": "/LissajousCurve/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
